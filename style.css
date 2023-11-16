@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: wheat;
+  }
+  img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: contain;
+    background: #a79e9e;
+  }
